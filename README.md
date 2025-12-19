@@ -114,6 +114,6 @@ As seguintes ferramentas e tecnologias serão utilizadas ao longo do ano letivo:
 
 ## 👨‍🏫 Docente
 
-**[Seu Nome Aqui]**
+**[Anderson Silva Vanin]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-vanin)
